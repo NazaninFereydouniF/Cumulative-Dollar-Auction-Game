@@ -54,8 +54,8 @@ flowchart LR
 
 | File | 🎯 Role | 💡 Best For |
 |------|---------|-------------|
-| `⚙️ ...local.py` | 🧠 Engine + ⌨️ CLI | 🔬 Lab control, scripting, no-GUI machines |
-| `🎨 ...gui.py` | 🖥️ Tkinter GUI | 👥 Running participants, live display |
+| `⚙️ ...Local.py` | 🧠 Engine + ⌨️ CLI | 🔬 Lab control, scripting, no-GUI machines |
+| `🎨 ...GUI.py` | 🖥️ Tkinter GUI | 👥 Running participants, live display |
 
 </div>
 
@@ -94,7 +94,7 @@ python -m pip install openpyxl
 ### 🖥️ ▶️ Run the GUI (recommended for participants)
 
 ```bash
-python dollar_auction_game2_gui.py
+python Cumulative_Dollar_Auction_Game_GUI.py
 ```
 
 <div align="center">
@@ -115,7 +115,7 @@ python dollar_auction_game2_gui.py
 ### ⌨️ ▶️ Run the Terminal version
 
 ```bash
-python dollar_auction_game2_local.py
+python Cumulative_Dollar_Auction_Game_Local.py
 ```
 
 > 🔒 *Use pseudonyms only — never real names!*
